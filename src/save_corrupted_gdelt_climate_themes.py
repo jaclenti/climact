@@ -12,7 +12,7 @@ sys.path += ['../src/']
 
 climate_themes = ["mitigation", "environment", "climate", "env_", "natural_disaster"]
 data_path = "/data/big/xxx/climact/data/"
-gdelt_path = "/data/shared/panisson/projects/test/data/"
+gdelt_path = "/data/shared/xxx/projects/test/data/"
 
 column_names = ['GKGRECORDID', 'DATE', 'SourceCollectionIdentifier', 'SourceCommonName',
        'DocumentIdentifier', 'Counts', 'V2Counts', 'Themes', 'V2Themes',
