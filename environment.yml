@@ -1,0 +1,12 @@
+name: CLIMACT
+dependencies:
+  - python=3.9.7
+  - pylint=2.7
+  - jupyter=1.0
+  - matplotlib=3.4.3
+  - numpy=1.21.2
+  - pandas=1.3.3
+  - scipy=1.7.1
+  - scikit-learn=1.0
+  - seaborn=0.11
+  - tqdm=4.62.3
